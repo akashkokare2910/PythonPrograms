@@ -4,6 +4,6 @@
  
  Here We Have Series of Some Interesting Python Programs
 
-Python Program to Generate Password Using Combination of Letters, Digits And Panctuations.
-Python Program to Calculate Compound Interest.
-Python Program to Calculate Simple Interest.
+#ython Program to Generate Password Using Combination of Letters, Digits And Panctuations.
+#ython Program to Calculate Compound Interest.
+#ython Program to Calculate Simple Interest.
